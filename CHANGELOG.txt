@@ -1,0 +1,4 @@
+CHANGELOG:
+
+12/13/20 Low Performance Patch GAP for JNSQ 1.0.1
+- inital release
